@@ -215,3 +215,4 @@ const A =3//esta variable no cambia en el tiempo
 //console.timeLog(nombre) muestra el tiempo transcurrido
 //console.timeEnd(nombre) finalizar el contador
 //se puede modificar visualmente los mensajes en consola con: console.log("%c texto ","color:red","etc")
+sadsad
